@@ -1,7 +1,7 @@
 package model;
-import model.Vehicle;
+//import model.Vehicle;
 
-public class Bus {
+public class Bus extends Vehicle {
 	private int numberOfSeats;
 	private boolean hasBaggageDivision; 
 	
